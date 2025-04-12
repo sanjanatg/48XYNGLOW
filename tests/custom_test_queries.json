@@ -1,0 +1,14 @@
+[
+  {
+    "query": "low risk ELSS fund from hdfc",
+    "expected_fund": "HDFC Tax Saver"
+  },
+  {
+    "query": "funds in infra sector with high return",
+    "expected_fund": "ICICI Infrastructure Fund"
+  },
+  {
+    "query": "moderate risk technology mutual funds",
+    "expected_fund": "Axis Technology Fund"
+  }
+] 

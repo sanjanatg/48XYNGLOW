@@ -1,0 +1,11 @@
+fund_name,fund_house,ticker,description,category,risk_score,expense_ratio,aum,returns_1yr,returns_3yr,returns_5yr,sector
+HDFC Technology Fund,HDFC,HDFTEC,HDFC Technology Fund invests in technology companies focusing on innovation and growth.,Equity: Sectoral - Technology,3,1.8,1500M,18.5,12.5,15.2,Technology
+SBI Healthcare Fund,SBI,SBIHC,SBI Healthcare Fund focuses on pharmaceutical and healthcare sector for long-term growth.,Equity: Sectoral - Healthcare,2,1.2,1200M,14.2,10.2,12.1,Healthcare
+ICICI Low Risk Bond Fund,ICICI,ICILRB,ICICI Low Risk Bond Fund is a debt fund with conservative approach for stable returns.,Debt: Low Duration,1,0.5,2500M,6.8,5.5,6.2,Debt
+Kotak Banking Fund,Kotak,KOTBANK,Kotak Banking Fund invests primarily in banking and financial services companies.,Equity: Sectoral - Banking,3,1.7,950M,16.8,9.2,11.5,Banking
+Axis Small Cap Fund,Axis,AXISSML,Axis Small Cap Fund invests in small-cap companies with high growth potential.,Equity: Small Cap,4,2.1,800M,22.5,16.8,18.2,Diversified
+Franklin India Bluechip Fund,Franklin,FIBCF,Franklin India Bluechip Fund invests in large-cap companies with stable growth.,Equity: Large Cap,2,1.5,3200M,12.5,8.4,10.2,Diversified
+Aditya Birla Balanced Advantage Fund,Aditya Birla,ABBA,Aditya Birla Balanced Advantage Fund is a hybrid fund balancing equity and debt for moderate risk.,Hybrid: Balanced Advantage,2,1.6,1800M,10.5,7.8,9.4,Hybrid
+DSP Value Fund,DSP,DSPVAL,DSP Value Fund focuses on undervalued companies with strong fundamentals.,Equity: Value,3,1.9,750M,14.8,11.3,13.5,Diversified
+UTI Dividend Yield Fund,UTI,UTIDVY,UTI Dividend Yield Fund invests in companies with history of consistent dividend payouts.,Equity: Dividend Yield,2,1.4,1100M,11.8,8.9,10.8,Diversified
+IDFC Government Securities Fund,IDFC,IDFCGS,IDFC Government Securities Fund invests in sovereign bonds and government securities.,Debt: Government Securities,1,0.8,1600M,5.2,6.1,7.8,Debt 

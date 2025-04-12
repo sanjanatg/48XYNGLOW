@@ -1,0 +1,12 @@
+{
+  "name": "find-my-fund",
+  "version": "1.0.0",
+  "description": "Intelligent fund search powered by RAG + Mistral 7B",
+  "scripts": {
+    "api": "python api_server.py",
+    "streamlit": "python -m streamlit run streamlit_app.py",
+    "start": "pwsh -Command \"./run_app.ps1\""
+  },
+  "author": "",
+  "license": "MIT"
+} 

@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+logs/
+*.log
+temp_*
+run_*.bat
+# except our main scripts
+!run.py
+!START_*.bat
+
+# Ignore large data files
+datasets/mutual_funds_data.json
+datasets/mf_holdings_data.json

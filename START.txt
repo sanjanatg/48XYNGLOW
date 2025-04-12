@@ -1,0 +1,27 @@
+FIND MY FUND - STARTUP COMMANDS
+
+ONE-STEP METHOD:
+---------------
+python run.py
+
+
+STEP-BY-STEP METHOD:
+------------------
+# Step 1: Start Ollama
+ollama serve
+
+# Step 2: Start API Server
+cd FINAL
+python api_server.py
+
+# Step 3: Start UI
+cd ui
+npm run dev
+
+# Step 4: Open in browser
+http://localhost:3000
+
+RUNNING TESTS:
+------------
+cd tests
+python test_runner.py 

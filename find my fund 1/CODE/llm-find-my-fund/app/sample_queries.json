@@ -1,0 +1,68 @@
+{
+  "basic_queries": [
+    {
+      "title": "Tax Saving Funds",
+      "query": "Show me tax saving funds with high returns"
+    },
+    {
+      "title": "Technology Sector",
+      "query": "Funds from the technology sector with low volatility"
+    },
+    {
+      "title": "Large Cap Funds",
+      "query": "Large cap funds with good track record"
+    },
+    {
+      "title": "Low Risk Funds",
+      "query": "Show me funds with low risk and stable returns"
+    },
+    {
+      "title": "High Returns",
+      "query": "Which funds have given the highest returns in the last year?"
+    }
+  ],
+  "advanced_queries": [
+    {
+      "title": "Specific Return Range",
+      "query": "Show me funds with returns above 15% and AUM > 1000 crore"
+    },
+    {
+      "title": "Sector + Risk",
+      "query": "Healthcare sector funds with moderate risk profile"
+    },
+    {
+      "title": "ELSS + Return",
+      "query": "Tax saving ELSS funds with returns greater than 12%"
+    },
+    {
+      "title": "Hybrid Portfolio",
+      "query": "Hybrid funds that invest in both debt and equity with good liquidity"
+    },
+    {
+      "title": "International Exposure",
+      "query": "Funds with international exposure that have performed well in the last year"
+    }
+  ],
+  "natural_language_queries": [
+    {
+      "title": "Retirement Planning",
+      "query": "I'm planning for retirement in 20 years, what funds should I consider?"
+    },
+    {
+      "title": "Short-term Investment",
+      "query": "I need to invest for 2 years, what are the safest options with decent returns?"
+    },
+    {
+      "title": "Child Education",
+      "query": "Looking for funds to save for my child's education 10 years from now"
+    },
+    {
+      "title": "New Investor",
+      "query": "I'm new to mutual funds, what are the best funds for beginners?"
+    },
+    {
+      "title": "High Risk Appetite",
+      "query": "I can take high risk, what are the funds that can give me maximum growth?"
+    }
+  ]
+} 

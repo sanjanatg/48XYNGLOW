@@ -1,0 +1,54 @@
+[
+  {
+    "query": "low risk debt fund",
+    "expected_fund": "ICICI Low Risk Bond Fund"
+  },
+  {
+    "query": "tech fund with high returns",
+    "expected_fund": "HDFC Technology Fund"
+  },
+  {
+    "query": "healthcare sector fund",
+    "expected_fund": "SBI Healthcare Fund"
+  },
+  {
+    "query": "fund with risk score 1",
+    "expected_fund": "ICICI Low Risk Bond Fund"
+  },
+  {
+    "query": "equity fund in technology sector",
+    "expected_fund": "HDFC Technology Fund"
+  },
+  {
+    "query": "balanced fund with moderate risk",
+    "expected_fund": "SBI Healthcare Fund"
+  },
+  {
+    "query": "fund with highest 3 year returns",
+    "expected_fund": "HDFC Technology Fund"
+  },
+  {
+    "query": "fund with lowest expense ratio",
+    "expected_fund": "ICICI Low Risk Bond Fund" 
+  },
+  {
+    "query": "fund for conservative investor",
+    "expected_fund": "ICICI Low Risk Bond Fund"
+  },
+  {
+    "query": "innovative technology investment",
+    "expected_fund": "HDFC Technology Fund"
+  },
+  {
+    "query": "low risk ELSS fund from hdfc",
+    "expected_fund": "HDFC Tax Saver"
+  },
+  {
+    "query": "funds in infra sector with high return",
+    "expected_fund": "ICICI Infrastructure Fund"
+  },
+  {
+    "query": "moderate risk technology mutual funds",
+    "expected_fund": "Axis Technology Fund"
+  }
+] 
