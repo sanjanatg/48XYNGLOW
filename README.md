@@ -2,6 +2,8 @@
 
 A Python application that helps users discover and analyze mutual funds based on their investment preferences and financial goals.
 
+![Screenshot 2025-04-12 075929](https://github.com/user-attachments/assets/149b2bdd-6d0a-40cf-a412-fc4c6ca9ef55)
+
 ## Features
 
 - Search and filter mutual funds by various criteria
